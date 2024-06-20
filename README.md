@@ -9,8 +9,8 @@
         <li>
             <h2>Project X</h2>
             <p>Comedy</p>
-            <span class="rating">Mika 8</span>
-            <span class="rating">Elena -</span>
+            <span class="rating">Mika 8,</span>
+            <span class="rating"> Elena -</span>
         </li>
         <li>
             <h2>Project Almanac</h2>
