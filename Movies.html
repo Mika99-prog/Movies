@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Score Tracker</title>
+</head>
+<body>
+    <h1>Movie Score Tracker</h1>
+
+    <form>
+        <label for="movieTitle">Movie Title:</label><br>
+        <input type="text" id="movieTitle" required><br><br>
+        
+        <label for="movieScore">Score (1-10):</label><br>
+        <input type="number" id="movieScore" min="1" max="10" required><br><br>
+        
+        <button type="button" onclick="addMovie()">Add Movie</button>
+    </form>
+
+    <h2>Movie List</h2>
+    <ul id="movieList">
+        <!-- Movies will be added dynamically here -->
+    </ul>
+
+    <script>
+        function addMovie() {
+            var title = document.getElementById("movieTitle").value;
+            var score = document.getElementById("movieScore").value;
+            
+            // Validate score (optional)
+            if (score < 1 || score > 10) {
+                alert("Score must be between 1 and 10.");
+                return;
+            }
+            
+            var movieItem = document.createElement("li");
+            movieItem.textContent = title + " - Score: " + score;
+            
+            document.getElementById("movieList").appendChild(movieItem);
+            
+            // Clear input fields
+            document.getElementById("movieTitle").value = "";
+            document.getElementById("movieScore").value = "";
+        }
+    </script>
+</body>
+</html>
