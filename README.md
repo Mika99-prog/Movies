@@ -79,6 +79,12 @@
             <span class="rating">Mika 9,</span>
            <span class="rating"> Elena -</span>
         </li>
+         <li>
+            <h2>Chronicle</h2>
+            <p>Action, Drama, Sci-Fi</p>
+            <span class="rating">Mika 7,</span>
+           <span class="rating"> Elena -</span>
+        </li>
         
     
 
