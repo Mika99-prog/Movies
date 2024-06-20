@@ -7,16 +7,67 @@
     <h1>Mika and Elena Movie List</h1>
     <ul>
         <li>
-            <h2>Pirates of the Caribbean</h2>
+            <h2>Project X</h2>
+            <p>Comedy</p>
+            <span class="rating">Mika 8</span>
+            <span class="rating">Elena -</span>
+        </li>
+        <li>
+            <h2>Project Almanac</h2>
+            <p>Drama, Mystery, Sci-Fi</p>
+            <span class="rating">10</span>
+        </li>
+        <li>
+            <h2>Pirates Of The Caribbean 1</h2>
+            <p>Action, Adventure, Fantasy</p>
+            <span class="rating">9</span>
+        </li>
+         <li>
+            <h2>Pirates Of The Caribbean 2</h2>
+            <p>Action, Adventure, Fantasy</p>
+            <span class="rating">8</span>
+        </li>
+         <li>
+            <h2>Pirates Of The Caribbean 3</h2>
+            <p>Action, Adventure, Fantasy</p>
+            <span class="rating">8</span>
+        </li>
+         <li>
+            <h2>Ghosted</h2>
+            <p>Action, Adventure, Comedy</p>
+            <span class="rating">8</span>
+        </li>
+         <li>
+            <h2>Crazy, Stupid, Love.</h2>
+            <p>Comedy, Romance</p>
+            <span class="rating">10</span>
+        </li>
+         <li>
+            <h2>Silent Voice</h2>
+            <p>Drama, Romance</p>
+            <span class="rating">9</span>
+        </li>
+         <li>
+            <h2>The Maze Runner 1</h2>
             <p>Action, Adventure, Fantasy</p>
             <span class="rating">10</span>
         </li>
         <li>
-            <h2>Maze Runner</h2>
-            <p>Action, Sci-Fi, Thriller</p>
-            <span class="rating">10</span>
+            <h2>The Maze Runner 2</h2>
+            <p>Action, Adventure, Fantasy</p>
+            <span class="rating">9</span>
         </li>
-        <!-- Add more movies as needed -->
-    </ul>
+        <li>
+            <h2>The Maze Runner 3</h2>
+            <p>Action, Adventure, Fantasy</p>
+            <span class="rating">9</span>
+        </li>
+        <li>
+            <h2>I Want To Eat Your Pancreas</h2>
+            <p>Drama, Romance</p>
+            <span class="rating">9</span>
+        </li>
+        
+    
 </body>
 </html>
