@@ -5,7 +5,6 @@
 </head>
 <body>
     <h1>Mika and Elena Movie List</h1>
-    <h1>Side note.. Sleep well</h1>
     <ul>
         <li>
             <h2>Project X</h2>
@@ -80,9 +79,9 @@
            <span class="rating"> Elena -</span>
         </li>
          <li>
-            <h2>Chronicle</h2>
-            <p>Action, Drama, Sci-Fi</p>
-            <span class="rating">Mika 7,</span>
+            <h2>Atlas</h2>
+            <p>Action, Adventure, Drama</p>
+            <span class="rating">Mika 8,</span>
            <span class="rating"> Elena -</span>
         </li>
         
