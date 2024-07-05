@@ -84,6 +84,12 @@
             <span class="rating">Mika 8,</span>
            <span class="rating"> Elena -</span>
         </li>
+         <li>
+            <h2>Jumper</h2>
+            <p>Action, Sci-Fi, Drama</p>
+            <span class="rating">Mika 8,</span>
+           <span class="rating"> Elena -</span>
+        </li>
         
     
 
